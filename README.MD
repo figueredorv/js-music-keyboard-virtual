@@ -1,0 +1,47 @@
+
+#  PIANO / TECLADO CRIADO EM HTML, CSS E JAVASCRIPT 🎮
+
+Bem-vindo ao ** Jogo da memória criado com Html, Css e Javascript**! Este projeto foi projetado para diversão e aprendizado de técnicas avançadas de desenvolvimento em JavaScript.
+
+![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
+
+## 📸 Capturas de Tela
+
+| Menu Principal  | Jogabilidade       |
+| --------------- | ------------------ |
+| ![Menu](src/images/captura1.jpg) | ![Gameplay](src/images/captura1.jpg) |
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5 e CSS3**: Estrutura e estilização da interface.
+- **JavaScript**: Implementação da lógica e interatividade.
+
+
+
+## 🎮 Como Jogar
+
+1. Clone este repositório para sua máquina local:
+   ```bash
+   git clone https://github.com/figueiredorv/js-music-keyboard-virtual.git
+   ```
+2. Abra o arquivo `index.html` em seu navegador.
+3. Utilize seu teclado ou o mouse para tocar piano.
+4. Divirta-se!
+5. Ou acesse o deploy para jogar online: (Em breve)
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request caso queira melhorar o jogo, adicionar novos recursos ou resolver problemas.
+
+## 🏆 Créditos
+
+Este jogo foi desenvolvido como parte de um projeto educacional da [Digital Innovation One](https://www.dio.me/).
+
+---
+
+Divirta-se explorando as técnicas de desenvolvimento de jogos com ** PIANO / TECLADO**. Deixe uma ⭐️ se você gostou do projeto e aproveite a experiência!
