@@ -32,7 +32,7 @@ Bem-vindo ao ** Teclado / Piano Online criado com Html, Css e Javascript**! Este
 2. Abra o arquivo `index.html` em seu navegador.
 3. Utilize seu teclado ou o mouse para tocar piano.
 4. Divirta-se!
-5. Ou acesse o deploy para jogar online: (Em breve)
+5. Ou acesse o deploy para jogar online: https://js-music-keyboard-virtual-two.vercel.app/
 
 ## 🤝 Contribuições
 
