@@ -1,7 +1,7 @@
 
 #  PIANO / TECLADO CRIADO EM HTML, CSS E JAVASCRIPT 🎮
 
-Bem-vindo ao ** Jogo da memória criado com Html, Css e Javascript**! Este projeto foi projetado para diversão e aprendizado de técnicas avançadas de desenvolvimento em JavaScript.
+Bem-vindo ao ** Teclado / Piano Online criado com Html, Css e Javascript**! Este projeto foi projetado para diversão e aprendizado de técnicas avançadas de desenvolvimento em JavaScript.
 
 ![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
